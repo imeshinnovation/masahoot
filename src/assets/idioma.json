@@ -1,6 +1,8 @@
 [
     {
         "name": "english",
+        "prefix": "en",
+        "btnnext": "Check",
         "tags": {
             "idioma": "Language",
             "prueba": "Welcome to masahoot, let's test your knowledge."
@@ -9,10 +11,13 @@
             "idiomas": "English",
             "matematica": "Math",
             "literatura": "Literature"
-        }
+        },
+        "copy": "George Washington School, Class: 801, headquarters Cota, 2024"
     },
     {
         "name": "español",
+        "prefix": "es",
+        "btnnext": "Comprobar",
         "tags": {
             "idioma": "Idioma",
             "prueba": "Bienvenido a masahoot, pongamos a prueba tus conocimientos."
@@ -21,6 +26,7 @@
             "idiomas": "Inglés",
             "matematica": "Matemáticas",
             "literatura": "Literatura"
-        }
+        },
+        "copy": "George Washington School, Curso: 801, Sede Cota, 2024"
     }
 ]

@@ -1,0 +1,467 @@
+[
+  {
+    "category": 0,
+    "questions": [
+      {
+        "question_en": "Which sentence is in the future tense?",
+        "question_es": "Which sentence is in the future tense?",
+        "options": [
+          {
+            "id": 0,
+            "ask_en": "I played soccer yesterday",
+            "ask_es": "I played soccer yesterday",
+            "iscorrect": false
+          },
+          {
+            "id": 1,
+            "ask_en": "She will visit her grandma next week",
+            "ask_es": "She will visit her grandma next week",
+            "iscorrect": true
+          },
+          {
+            "id": 2,
+            "ask_en": "They are swimming right now",
+            "ask_es": "They are swimming right now",
+            "iscorrect": false
+          },
+          {
+            "id": 3,
+            "ask_en": "We studied for the test",
+            "ask_es": "We studied for the test",
+            "iscorrect": false
+          }
+        ]
+      },
+      {
+        "question_en": "Which of the following is a phrasal verb?",
+        "question_es": "Which of the following is a phrasal verb?",
+        "options": [
+          {
+            "id": 0,
+            "ask_en": "Look up",
+            "ask_es": "Look up",
+            "iscorrect": true
+          },
+          {
+            "id": 1,
+            "ask_en": "Understand",
+            "ask_es": "Understand",
+            "iscorrect": false
+          },
+          {
+            "id": 2,
+            "ask_en": "Read",
+            "ask_es": "Read",
+            "iscorrect": false
+          },
+          {
+            "id": 3,
+            "ask_en": "Write",
+            "ask_es": "Write",
+            "iscorrect": false
+          }
+        ]
+      },
+      {
+        "question_en": "What is the past tense of the verb 'run'?",
+        "question_es": "What is the past tense of the verb 'run'?",
+        "options": [
+          {
+            "id": 0,
+            "ask_en": "Running",
+            "ask_es": "Running",
+            "iscorrect": false
+          },
+          {
+            "id": 1,
+            "ask_en": "Runned",
+            "ask_es": "Runned",
+            "iscorrect": false
+          },
+          {
+            "id": 2,
+            "ask_en": "Ran",
+            "ask_es": "Ran",
+            "iscorrect": true
+          },
+          {
+            "id": 3,
+            "ask_en": "Runs",
+            "ask_es": "Runs",
+            "iscorrect": false
+          }
+        ]
+      },
+      {
+        "question_en": "Which sentence is correct in the present continuous tense?",
+        "question_es": "Which sentence is correct in the present continuous tense?",
+        "options": [
+          {
+            "id": 0,
+            "ask_en": "He plays the guitar.",
+            "ask_es": "He plays the guitar.",
+            "iscorrect": false
+          },
+          {
+            "id": 1,
+            "ask_en": "He is playing the guitar",
+            "ask_es": "He is playing the guitar",
+            "iscorrect": true
+          },
+          {
+            "id": 2,
+            "ask_en": "He played the guitar",
+            "ask_es": "He played the guitar",
+            "iscorrect": false
+          },
+          {
+            "id": 3,
+            "ask_en": "He will play the guitar",
+            "ask_es": "He will play the guitar",
+            "iscorrect": false
+          }
+        ]
+      },
+      {
+        "question_en": "Choose the correct sentence using the phrasal verb 'give up'",
+        "question_es": "Choose the correct sentence using the phrasal verb 'give up'",
+        "options": [
+          {
+            "id": 0,
+            "ask_en": "I give up to study",
+            "ask_es": "I give up to study",
+            "iscorrect": false
+          },
+          {
+            "id": 1,
+            "ask_en": "She gave up studying after one hour",
+            "ask_es": "She gave up studying after one hour",
+            "iscorrect": false
+          },
+          {
+            "id": 2,
+            "ask_en": "They give up on the project yesterday",
+            "ask_es": "They give up on the project yesterday",
+            "iscorrect": true
+          },
+          {
+            "id": 3,
+            "ask_en": "He is give up the game",
+            "ask_es": "He is give up the game",
+            "iscorrect": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": 1,
+    "questions": [
+      {
+        "question_en": "What is the value of 8x7?",
+        "question_es": "¿Cual es el valor de 8x7?",
+        "options": [
+          {
+            "id": 0,
+            "ask_en": "54",
+            "ask_es": "54",
+            "iscorrect": false
+          },
+          {
+            "id": 1,
+            "ask_en": "56",
+            "ask_es": "56",
+            "iscorrect": true
+          },
+          {
+            "id": 2,
+            "ask_en": "48",
+            "ask_es": "48",
+            "iscorrect": false
+          },
+          {
+            "id": 3,
+            "ask_en": "64",
+            "ask_es": "64",
+            "iscorrect": false
+          }
+        ]
+      },
+      {
+        "question_en": "If a rectangle has a length of 12 cm and a width of 5 cm, what is its perimeter?",
+        "question_es": "Si un rectángulo tiene un largo de 12 cm y un ancho de 5 cm ¿cuál es su perímetro?",
+        "options": [
+          {
+            "id": 0,
+            "ask_en": "24 CM",
+            "ask_es": "24 CM",
+            "iscorrect": false
+          },
+          {
+            "id": 1,
+            "ask_en": "30 CM",
+            "ask_es": "30 CM",
+            "iscorrect": false
+          },
+          {
+            "id": 2,
+            "ask_en": "34 CM",
+            "ask_es": "34 CM",
+            "iscorrect": true
+          },
+          {
+            "id": 3,
+            "ask_en": "40 CM",
+            "ask_es": "40 CM",
+            "iscorrect": false
+          }
+        ]
+      },
+      {
+        "question_en": "Which number is a prime number?",
+        "question_es": "¿Qué número es un número primo?",
+        "options": [
+          {
+            "id": 0,
+            "ask_en": "18",
+            "ask_es": "18",
+            "iscorrect": false
+          },
+          {
+            "id": 1,
+            "ask_en": "27",
+            "ask_es": "27",
+            "iscorrect": false
+          },
+          {
+            "id": 2,
+            "ask_en": "31",
+            "ask_es": "31",
+            "iscorrect": true
+          },
+          {
+            "id": 3,
+            "ask_en": "50",
+            "ask_es": "50",
+            "iscorrect": false
+          }
+        ]
+      },
+      {
+        "question_en": "Solve the equation: 5x + 3 = 18. What is the value of x?",
+        "question_es": "Resuelve la ecuación: 5x + 3 = 18. ¿Cuál es el valor de x?",
+        "options": [
+          {
+            "id": 0,
+            "ask_en": "2",
+            "ask_es": "2",
+            "iscorrect": false
+          },
+          {
+            "id": 1,
+            "ask_en": "3",
+            "ask_es": "3",
+            "iscorrect": true
+          },
+          {
+            "id": 2,
+            "ask_en": "4",
+            "ask_es": "4",
+            "iscorrect": false
+          },
+          {
+            "id": 3,
+            "ask_en": "5",
+            "ask_es": "5",
+            "iscorrect": false
+          }
+        ]
+      },
+      {
+        "question_en": "If there are 36 students in a class and 3/4 of them are boys, how many boys are in the class?",
+        "question_es": "Si hay 36 estudiantes en una clase y 3/4 de ellos son niños, ¿cuántos niños hay en la clase?",
+        "options": [
+          {
+            "id": 0,
+            "ask_en": "18",
+            "ask_es": "18",
+            "iscorrect": false
+          },
+          {
+            "id": 1,
+            "ask_en": "24",
+            "ask_es": "24",
+            "iscorrect": false
+          },
+          {
+            "id": 2,
+            "ask_en": "27",
+            "ask_es": "27",
+            "iscorrect": true
+          },
+          {
+            "id": 3,
+            "ask_en": "30",
+            "ask_es": "30",
+            "iscorrect": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": 2,
+    "questions": [
+      {
+        "question_en": "Who wrote the book 'Alice Adventures in Wonderland'?",
+        "question_es": "¿Quién escribió el libro 'Las aventuras de Alicia en el país de las maravillas'?",
+        "options": [
+          {
+            "id": 0,
+            "ask_en": "J.R.R. Tolkien",
+            "ask_es": "J.R.R. Tolkien",
+            "iscorrect": false
+          },
+          {
+            "id": 1,
+            "ask_en": "C.S. Lewis",
+            "ask_es": "C.S. Lewis",
+            "iscorrect": false
+          },
+          {
+            "id": 2,
+            "ask_en": "Lewis Carroll",
+            "ask_es": "Lewis Carroll",
+            "iscorrect": true
+          },
+          {
+            "id": 3,
+            "ask_en": "Mark Twain",
+            "ask_es": "Mark Twain",
+            "iscorrect": false
+          }
+        ]
+      },
+      {
+        "question_en": "What is the name of the boy who never grows up in J.M. Barrie's famous story?",
+        "question_es": "¿Cómo se llama el niño que nunca crece en la famosa historia de J.M. Barrie?",
+        "options": [
+          {
+            "id": 0,
+            "ask_en": "Peter Pan",
+            "ask_es": "Peter Pan",
+            "iscorrect": true
+          },
+          {
+            "id": 1,
+            "ask_en": "Harry Potter",
+            "ask_es": "Harry Potter",
+            "iscorrect": false
+          },
+          {
+            "id": 2,
+            "ask_en": "Tom Sawyer",
+            "ask_es": "Tom Sawyer",
+            "iscorrect": false
+          },
+          {
+            "id": 3,
+            "ask_en": "Mowgli",
+            "ask_es": "Mowgli",
+            "iscorrect": false
+          }
+        ]
+      },
+      {
+        "question_en": "Which of these books is part of a series?",
+        "question_es": "¿Cuál de estos libros es parte de una serie?",
+        "options": [
+          {
+            "id": 0,
+            "ask_en": "Charlotte's Web",
+            "ask_es": "La Telaraña de Charlotte",
+            "iscorrect": false
+          },
+          {
+            "id": 1,
+            "ask_en": "The Hobbit",
+            "ask_es": "El Hobbit",
+            "iscorrect": false
+          },
+          {
+            "id": 2,
+            "ask_en": "Harry Potter and the Sorcerer's Stone",
+            "ask_es": "Harry Potter y la Piedra Filosofal",
+            "iscorrect": true
+          },
+          {
+            "id": 3,
+            "ask_en": "To Kill a Mockingbird",
+            "ask_es": "Matar a un Ruiseñor",
+            "iscorrect": false
+          }
+        ]
+      },
+      {
+        "question_en": "What is the genre of the book 'The Lion, the Witch and the Wardrobe' by C.S. Lewis?",
+        "question_es": "¿Cuál es el género del libro 'El león, la bruja y el armario' de C.S. Lewis?",
+        "options": [
+          {
+            "id": 0,
+            "ask_en": "Science Fiction",
+            "ask_es": "Ciencia Ficción",
+            "iscorrect": false
+          },
+          {
+            "id": 1,
+            "ask_en": "Mystery",
+            "ask_es": "Misterio",
+            "iscorrect": false
+          },
+          {
+            "id": 2,
+            "ask_en": "Fantasy",
+            "ask_es": "Fantasía",
+            "iscorrect": true
+          },
+          {
+            "id": 3,
+            "ask_en": "Historical Fiction",
+            "ask_es": "Ficción Histórica",
+            "iscorrect": false
+          }
+        ]
+      },
+      {
+        "question_en": "Which character lives in a forest and is known for his love of honey?",
+        "question_es": "¿Qué personaje vive en un bosque y es conocido por su amor a la miel?",
+        "options": [
+          {
+            "id": 0,
+            "ask_en": "Paddington Bear",
+            "ask_es": "El Oso Paddington",
+            "iscorrect": false
+          },
+          {
+            "id": 1,
+            "ask_en": "Winnie the Pooh",
+            "ask_es": "Winnie the Pooh",
+            "iscorrect": true
+          },
+          {
+            "id": 2,
+            "ask_en": "Peter Rabbit",
+            "ask_es": "Peter Rabbit",
+            "iscorrect": false
+          },
+          {
+            "id": 3,
+            "ask_en": "The Gruffalo",
+            "ask_es": "El Gruffalo",
+            "iscorrect": false
+          }
+        ]
+      }
+    ]
+  }
+]
