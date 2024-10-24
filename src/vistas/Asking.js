@@ -50,6 +50,30 @@ const Asking = {
                         "isCorrect": false
                     }
                 ]
+            }, {
+                "Question": "What is the past tense of the verb 'run'?",
+                "Options": [
+                    {
+                        "id": 0,
+                        "Ask": "Running",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 1,
+                        "Ask": "Runned",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "Ask": "Ran",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "Ask": "Runs",
+                        "isCorrect": false
+                    }
+                ]
             }
         ]
     ]
