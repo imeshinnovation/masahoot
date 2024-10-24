@@ -37,15 +37,15 @@ function Questions(props) {
 
   return (
     <Container>
-      <Card className="shadow mt-2 border-0 bg-transparent rounded-0">
-        <Card.Header>{question}</Card.Header>
-        <Card.Body>
+      <Card className="mt-4 border-0 bg-transparent rounded-0">
+        <Card.Header className="border-0">{question}</Card.Header>
+        <Card.Body className="border-0">
           <Form.Check label={ask0} name="group1" type="radio" id={ask0} />
           <Form.Check label={ask1} name="group1" type="radio" id={ask1} />
           <Form.Check label={ask2} name="group1" type="radio" id={ask2} />
           <Form.Check label={ask3} name="group1" type="radio" id={ask3} />
         </Card.Body>
-        <Card.Footer>
+        <Card.Footer className="border-0">
           <Button
             onClick={(e) => {
               e.preventDefault();
