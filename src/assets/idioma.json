@@ -1,0 +1,26 @@
+[
+    {
+        "name": "english",
+        "tags": {
+            "idioma": "Language",
+            "prueba": "Welcome to masahoot, let's test your knowledge."
+        },
+        "materia": {
+            "idiomas": "English",
+            "matematica": "Math",
+            "literatura": "Literature"
+        }
+    },
+    {
+        "name": "español",
+        "tags": {
+            "idioma": "Idioma",
+            "prueba": "Bienvenido a masahoot, pongamos a prueba tus conocimientos."
+        },
+        "materia": {
+            "idiomas": "Inglés",
+            "matematica": "Matemáticas",
+            "literatura": "Literatura"
+        }
+    }
+]
