@@ -74,6 +74,54 @@ const Asking = {
                         "isCorrect": false
                     }
                 ]
+            }, {
+                "Question": "Which sentence is correct in the present continuous tense?",
+                "Options": [
+                    {
+                        "id": 0,
+                        "Ask": "He plays the guitar.",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 1,
+                        "Ask": "He is playing the guitar",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "Ask": "He played the guitar",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "Ask": "He will play the guitar",
+                        "isCorrect": false
+                    }
+                ]
+            }, {
+                "Question": "Choose the correct sentence using the phrasal verb 'give up'",
+                "Options": [
+                    {
+                        "id": 0,
+                        "Ask": "I give up to study",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 1,
+                        "Ask": "She gave up studying after one hour",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "Ask": "They give up on the project yesterday",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "Ask": "He is give up the game",
+                        "isCorrect": false
+                    }
+                ]
             }
         ]
     ]
