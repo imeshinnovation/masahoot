@@ -37,7 +37,7 @@ function Questions(props) {
 
   return (
     <Container>
-      <Card className="shadow mt-2">
+      <Card className="shadow mt-2 border-0 bg-transparent rounded-0">
         <Card.Header>{question}</Card.Header>
         <Card.Body>
           <Form.Check label={ask0} name="group1" type="radio" id={ask0} />
